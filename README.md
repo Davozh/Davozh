@@ -62,7 +62,7 @@ Desarrollador web con formación en DAW, enfocándome en backend moderno. Disfru
 
 ## 📫 Contacto
 
-- ✉️ Email: **davozh**  
+- ✉️ Email: **davozh03@gmail.com**  
 - 💼 LinkedIn: [linkedin.com/in/david-ozhekhovsky](https://www.linkedin.com/in/david-ozhekhovsky/)  
 - 🌐 Freelancer disponible y en búsqueda activa de empleo  
 
@@ -71,15 +71,3 @@ Desarrollador web con formación en DAW, enfocándome en backend moderno. Disfru
 > **“No existen proyectos finalizados, solo proyectos abandonados. Siempre queda una mejora por hacer.”**
 
 ---
-
-### 📈 Mis estadísticas
-
-<p align="center">
-  <!-- GitHub stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=davozh&count_private=true&show_icons=true&theme=dark" alt="stats"/>
-</p>
-
-<p align="center">
-  <!-- Contribución tipo snake -->
-  <img src="https://github.com/davozh/davozh/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>

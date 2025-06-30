@@ -1,6 +1,6 @@
 <!-- Banner animado SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=00FF00&background=00000000&width=600&lines=¡Hola%2C+soy+David!;Desarrollador+Web+Backend+|+Freelancer" alt="typing-svg"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=¡Hola,+soy+David!;Desarrollador+Web+Backend+Freelancer" alt="Typing SVG" />
 </p>
 
 ---

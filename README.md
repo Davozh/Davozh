@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=650&lines=Hola%2C+soy+David;Desarrollador+Full+Stack;Backend+%2B+DevOps+%2B+Integraciones" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=650&lines=Hola%2C+soy+David;Full+Stack+Software+Engineer;Backend+%2B+DevOps+%2B+Integraciones" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👋 Sobre mí
 
-Desarrollador Full Stack con formación en DAW. Diseño, desarrollo y despliego aplicaciones reales de principio a fin: backend, frontend, infraestructura y despliegue, normalmente en solitario y con testing automatizado cuando el proyecto lo requiere (pagos, checkout, datos críticos).
+Full Stack Software Engineer. Diseño, desarrollo y despliego aplicaciones reales de principio a fin: backend, frontend, infraestructura y despliegue, normalmente en solitario y con testing automatizado cuando el proyecto lo requiere (pagos, checkout, datos críticos).
 
 Trabajo tanto en proyectos propios como integrando aplicaciones web con sistemas de gestión empresarial (ERP).
 

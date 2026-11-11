@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=650&lines=Hola%2C+soy+David;Full+Stack+Software+Engineer;Backend+%2B+DevOps+%2B+Integraciones" alt="Typing SVG" />
+  <img src="assets/banner.png" alt="David Ozhekhovsky · Fundador de Devmur · Consultor IT para pymes en Murcia" width="100%" />
 </p>
 
 ---
